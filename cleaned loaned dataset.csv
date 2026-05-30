@@ -1,0 +1,36 @@
+Row Labels,Count of Employment_Type,,Row Labels,Average of Loan_Amount,,Row Labels,Average of Income,,Row Labels,Average of Tenure_Months
+Female,1307,,Business,514089.568,,Salaried,1018362.724,,Bachelor,34.23175966
+Divorced,291,,Education,488678.7984,,Self-employed,1018032.02,,Diploma,32.06857143
+Salaried,96,,Housing,503206.3321,,Unemployed,1029848.697,,High School,33.15039063
+Self-employed,99,,Medical,515044.2048,,Grand Total,1022118.219,,Master,33.05927342
+Unemployed,96,,Personal,511095.3757,,,,,PhD,32.36832061
+Married,342,,Grand Total,506341.4898,,,,,Grand Total,32.94588235
+Salaried,117,,,,,,,,,
+Self-employed,110,,,,,,,,,
+Unemployed,115,,,,,,,,,
+Single,328,,,,,,,,,
+Salaried,112,,,,,,,,,
+Self-employed,99,,,,,,,,,
+Unemployed,117,,,,,,,,,
+Widowed,346,,,,,,,,,
+Salaried,129,,,,,,,,,
+Self-employed,100,,,,,,,,,
+Unemployed,117,,,,,,,,,
+Male,1243,,,,,,,,,
+Divorced,306,,,,,,,,,
+Salaried,92,,,,,,,,,
+Self-employed,100,,,,,,,,,
+Unemployed,114,,,,,,,,,
+Married,334,,,,,,,,,
+Salaried,111,,,,,,,,,
+Self-employed,116,,,,,,,,,
+Unemployed,107,,,,,,,,,
+Single,316,,,,,,,,,
+Salaried,102,,,,,,,,,
+Self-employed,115,,,,,,,,,
+Unemployed,99,,,,,,,,,
+Widowed,287,,,,,,,,,
+Salaried,91,,,,,,,,,
+Self-employed,103,,,,,,,,,
+Unemployed,93,,,,,,,,,
+Grand Total,2550,,,,,,,,,
